@@ -1,0 +1,40 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "nyt react search",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrotherBuck/React.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "Handlebars.js",
+    "JavaScript",
+    "jQuery",
+    "MySQL",
+    "css",
+    "Bootstrap"
+  ],
+  "author": "John Dispennette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrotherBuck/React/issues"
+  },
+  "homepage": "https://github.com/BrotherBuck/React#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.13.2",
+    "body-parser": "^1.15.2",
+    "bundle": "^0.2.3",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongojs": "^2.4.0",
+    "morgan": "^1.1.4"
+  }
+}
